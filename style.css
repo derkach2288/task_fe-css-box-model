@@ -1,0 +1,16 @@
+html {
+  font-size: 25px;
+}
+body {
+  width: 800px;
+}
+
+p {
+  border: 3px solid hwb(6 18% 6%);
+  background-color: rgb(235, 225, 214);
+
+}
+
+span {
+  border: 3px solid rgb(89, 89, 181);
+}
